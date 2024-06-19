@@ -1,0 +1,1423 @@
+[
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-libreria-blanco-00263850/",
+        "name": "BILLY",
+        "category": "Librería",
+        "measures": "80x28x202",
+        "price": "59"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/baggebo-estanteria-metal-blanco-50481172/",
+        "name": "BAGGEBO",
+        "category": "Estantería",
+        "measures": "60x25x116",
+        "price": "19"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-estanteria-blanco-20275814/",
+        "name": "KALLAX",
+        "category": "Estantería",
+        "measures": "77x77",
+        "price": "34"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/hemnes-libreria-tinte-blanco-marron-claro-60413502/",
+        "name": "HEMNES",
+        "category": "Librería",
+        "measures": "90x197",
+        "price": "179"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/eket-mueble-almacenaje-blanco-70332124/",
+        "name": "EKET",
+        "category": "Mueble de almacenaje",
+        "measures": "35x25x35",
+        "price": "15"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-estanteria-blanco-80275887/",
+        "name": "KALLAX",
+        "category": "Estantería",
+        "measures": "77x147",
+        "price": "59"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/gnedby-estanteria-blanco-40277143/",
+        "name": "GNEDBY",
+        "category": "Estantería",
+        "measures": "202",
+        "price": "39"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/baggebo-libreria-blanco-20436713/",
+        "name": "BAGGEBO",
+        "category": "Librería",
+        "measures": "50x25x160",
+        "price": "24"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/brimnes-libreria-blanco-90301225/",
+        "name": "BRIMNES",
+        "category": "Librería",
+        "measures": "60x190",
+        "price": "84"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-estanteria-blanco-00275848/",
+        "name": "KALLAX",
+        "category": "Estantería",
+        "measures": "42x147",
+        "price": "44"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-estanteria-con-accesorios-blanco-s59278307/",
+        "name": "KALLAX",
+        "category": "Estantería con accesorios",
+        "measures": "77x147",
+        "price": "129"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/vihals-estanteria-4-baldas-blanco-50483289/",
+        "name": "VIHALS",
+        "category": "Estantería 4 baldas",
+        "measures": "95x37x90",
+        "price": "79"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-libreria-blanco-50263838/",
+        "name": "BILLY",
+        "category": "Librería",
+        "measures": "40x28x202",
+        "price": "44"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/baggebo-mueble-almacenaje-con-puerta-blanco-60481204/",
+        "name": "BAGGEBO",
+        "category": "Mueble de almacenaje con puerta",
+        "measures": "50x30x80",
+        "price": "24"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/lack-estanteria-pared-blanco-60282186/",
+        "name": "LACK",
+        "category": "Estantería de pared",
+        "measures": "30x190",
+        "price": "89"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/laiva-estanteria-negro-marron-40178591/",
+        "name": "LAIVA",
+        "category": "Estantería",
+        "measures": "62x165",
+        "price": "24"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/hyllis-estanteria-int-ext-30428326/",
+        "name": "HYLLIS",
+        "category": "Estantería",
+        "measures": "60x27x74",
+        "price": "12"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-oxberg-libreria-con-puerta-vidrio-blanco-s69281776/",
+        "name": "BILLY / OXBERG",
+        "category": "Librería con puerta de vidrio",
+        "measures": "80x30x202",
+        "price": "139"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-combinacion-libreria-modulo-esquina-blanco-s99395936/",
+        "name": "BILLY",
+        "category": "Combinación librería módulo esquina",
+        "measures": "95/95x28x202",
+        "price": "139"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/hauga-armario-alto-con-2-puertas-blanco-20415046/",
+        "name": "HAUGA",
+        "category": "Armario alto con 2 puertas",
+        "measures": "70x199",
+        "price": "169"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/gersby-libreria-blanco-70261131/",
+        "name": "GERSBY",
+        "category": "Librería",
+        "measures": "60x180",
+        "price": "44"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/flysta-estanteria-blanco-30377242/",
+        "name": "FLYSTA",
+        "category": "Estantería",
+        "measures": "69x132",
+        "price": "44"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/mosslanda-estante-cuadros-blanco-40291766/",
+        "name": "MOSSLANDA",
+        "category": "Estante para cuadros",
+        "measures": "55",
+        "price": "4"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-hogadal-libreria-con-puertas-blanco-s49572205/",
+        "name": "BILLY / HÖGADAL",
+        "category": "Librería con puertas",
+        "measures": "80x30x202",
+        "price": "179"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/eket-mueble-almacenaje-con-riel-blanco-efecto-roble-tinte-blanco-s19494271/",
+        "name": "EKET",
+        "category": "Mueble de almacenaje con riel",
+        "measures": "175x35x70",
+        "price": "220"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-estanteria-blanco-30372188/",
+        "name": "KALLAX",
+        "category": "Estantería",
+        "measures": "42x112",
+        "price": "42"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-oxberg-libreria-con-puertas-blanco-s49280042/",
+        "name": "BILLY / OXBERG",
+        "category": "Librería con puertas",
+        "measures": "80x30x106",
+        "price": "94"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/hemnes-vitrina-con-cajones-tinte-blanco-marron-claro-50413507/",
+        "name": "HEMNES",
+        "category": "Vitrina con cajones",
+        "measures": "90x197",
+        "price": "399"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-estanteria-blanco-90301555/",
+        "name": "KALLAX",
+        "category": "Estantería",
+        "measures": "77x41",
+        "price": "29"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-libreria-blanco-30263844/",
+        "name": "BILLY",
+        "category": "Librería",
+        "measures": "80x28x106",
+        "price": "44"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-hogadal-libreria-con-puerta-blanco-s29562491/",
+        "name": "BILLY / HÖGADAL",
+        "category": "Librería con puerta",
+        "measures": "40x30x202",
+        "price": "104"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-estanteria-blanco-10409932/",
+        "name": "KALLAX",
+        "category": "Estantería",
+        "measures": "112x147",
+        "price": "99"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-altillo-blanco-40263853/",
+        "name": "BILLY",
+        "category": "Altillo",
+        "measures": "80x28x35",
+        "price": "25"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/ekenabben-estanteria-alamo-blanco-80487813/",
+        "name": "EKENABBEN",
+        "category": "Estantería",
+        "measures": "70x34x154",
+        "price": "59"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-oxberg-libreria-blanco-s69017828/",
+        "name": "BILLY / OXBERG",
+        "category": "Librería",
+        "measures": "80x30x202",
+        "price": "159"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/skruvby-libreria-blanco-40503546/",
+        "name": "SKRUVBY",
+        "category": "Librería",
+        "measures": "60x140",
+        "price": "79"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-estanteria-blanco-70301537/",
+        "name": "KALLAX",
+        "category": "Estantería",
+        "measures": "182x182",
+        "price": "199"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-estanteria-con-soporte-blanco-blanco-s49442676/",
+        "name": "KALLAX",
+        "category": "Estantería con soporte",
+        "measures": "147x94",
+        "price": "89"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-libreria-blanco-s79017837/",
+        "name": "BILLY",
+        "category": "Librería",
+        "measures": "160x28x202",
+        "price": "119"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/valjare-mueble-almacenaje-con-puerta-pino-alamo-negro-90536709/",
+        "name": "VÄLJARE",
+        "category": "Mueble de almacenaje con puerta",
+        "measures": "35x25x35",
+        "price": "35"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/eket-mueble-almacenaje-blanco-80334603/",
+        "name": "EKET",
+        "category": "Mueble de almacenaje",
+        "measures": "35x35x35",
+        "price": "20"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/fjallbo-estanteria-negro-50339292/",
+        "name": "FJÄLLBO",
+        "category": "Estantería",
+        "measures": "100x95",
+        "price": "99"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-oxberg-libreria-con-puertas-blanco-s29281066/",
+        "name": "BILLY / OXBERG",
+        "category": "Librería con puertas",
+        "measures": "80x30x202",
+        "price": "109"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-estanteria-efecto-roble-tinte-blanco-50522417/",
+        "name": "KALLAX",
+        "category": "Estantería",
+        "measures": "77x112",
+        "price": "54"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-libreria-blanco-80263832/",
+        "name": "BILLY",
+        "category": "Librería",
+        "measures": "40x28x106",
+        "price": "34"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/eket-combinacion-almacenaje-con-patas-blanco-efecto-roble-tinte-blanco-s79495084/",
+        "name": "EKET",
+        "category": "Combinación de almacenaje con patas",
+        "measures": "70x35x107",
+        "price": "127"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-oxberg-libreria-puerta-panel-vdr-blanco-vidrio-s39287421/",
+        "name": "BILLY / OXBERG",
+        "category": "Librería +puerta panel/vdr",
+        "measures": "40x30x202",
+        "price": "84"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-estanteria-verde-oscuro-40562079/",
+        "name": "KALLAX",
+        "category": "Estantería",
+        "measures": "147x77",
+        "price": "69"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/lack-estante-pared-blanco-90282180/",
+        "name": "LACK",
+        "category": "Estante de pared",
+        "measures": "110x26",
+        "price": "14"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-hogadal-libreria-con-puertas-blanco-s79572204/",
+        "name": "BILLY / HÖGADAL",
+        "category": "Librería con puertas",
+        "measures": "80x30x106",
+        "price": "114"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-libreria-con-cajon-blanco-s29487840/",
+        "name": "BILLY",
+        "category": "Librería con cajón",
+        "measures": "80x30x106",
+        "price": "79"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/finnby-libreria-negro-10261129/",
+        "name": "FINNBY",
+        "category": "Librería",
+        "measures": "60x180",
+        "price": "49"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/burhult-balda-blanco-80400042/",
+        "name": "BURHULT",
+        "category": "Balda",
+        "measures": "59x20",
+        "price": "3"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-libreria-blanco-10401931/",
+        "name": "BILLY",
+        "category": "Librería",
+        "measures": "40x40x202",
+        "price": "69"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/jonaxel-estanteria-blanco-70419971/",
+        "name": "JONAXEL",
+        "category": "Estantería",
+        "measures": "50x51x70",
+        "price": "30"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/ivar-estanteria-pino-metal-blanco-s19553500/",
+        "name": "IVAR",
+        "category": "Estantería",
+        "measures": "48x30x179",
+        "price": "65"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/eket-combinacion-almacenaje-pared-multicolor-azul-grisaceo-claro-s79521672/",
+        "name": "EKET",
+        "category": "Combinación de almacenaje en pared",
+        "measures": null,
+        "price": "100"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/vittsjo-estanteria-negro-marron-vidrio-50214678/",
+        "name": "VITTSJÖ",
+        "category": "Estantería",
+        "measures": "51x175",
+        "price": "49"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/besta-armario-blanco-s39284998/",
+        "name": "BESTÅ",
+        "category": "Armario",
+        "measures": "60x40x202",
+        "price": "122"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-libreria-con-puertas-blanco-s79287358/",
+        "name": "BILLY",
+        "category": "Librería con puertas",
+        "measures": "80x30x202",
+        "price": "129"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-oxberg-libreria-blanco-vidrio-s89017832/",
+        "name": "BILLY / OXBERG",
+        "category": "Librería",
+        "measures": "160x30x202",
+        "price": "319"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/spiksmed-estante-dispositivos-multimedia-gris-claro-00573150/",
+        "name": "SPIKSMED",
+        "category": "Estante dispositivos multimedia",
+        "measures": "117x32",
+        "price": "39"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/jonaxel-estanteria-blanco-50419972/",
+        "name": "JONAXEL",
+        "category": "Estantería",
+        "measures": "80x38x160",
+        "price": "49"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-estanteria-con-6-accesorios-blanco-s29278262/",
+        "name": "KALLAX",
+        "category": "Estantería con 6 accesorios",
+        "measures": "112x147",
+        "price": "199"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/skruvby-combinacion-almacenaje-blanco-s39525605/",
+        "name": "SKRUVBY",
+        "category": "Combinación de almacenaje",
+        "measures": "190x90",
+        "price": "248"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/ekby-alex-estante-con-cajones-blanco-20192828/",
+        "name": "EKBY ALEX",
+        "category": "Estante con cajones",
+        "measures": "119x29",
+        "price": "49"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/eket-mueble-almacenaje-con-puerta-blanco-90333938/",
+        "name": "EKET",
+        "category": "Mueble de almacenaje con puerta",
+        "measures": "35x35x70",
+        "price": "45"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/eket-mueble-almacenaje-pared-blanco-s89435221/",
+        "name": "EKET",
+        "category": "Mueble de almacenaje en pared",
+        "measures": "70x35x70",
+        "price": "85"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/skruvby-combinacion-almacenaje-blanco-s99494724/",
+        "name": "SKRUVBY",
+        "category": "Combinación de almacenaje",
+        "measures": "130x140",
+        "price": "179"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/omar-2-secciones-estante-s79412946/",
+        "name": "OMAR",
+        "category": "2 secciones estante",
+        "measures": "60x25x77",
+        "price": "29"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/skruvby-vitrina-negro-azul-s79525608/",
+        "name": "SKRUVBY",
+        "category": "Vitrina",
+        "measures": "190x90",
+        "price": "248"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-estanteria-con-puertas-blanco-s19278272/",
+        "name": "KALLAX",
+        "category": "Estantería con puertas",
+        "measures": "77x77",
+        "price": "64"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/lindasen-estante-exposicion-antracita-10515800/",
+        "name": "LINDÅSEN",
+        "category": "Estante exposición",
+        "measures": "75",
+        "price": "15"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-libreria-blanco-s09017826/",
+        "name": "BILLY",
+        "category": "Librería",
+        "measures": "240x28x106",
+        "price": "134"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/hemnes-mueble-salon-tinte-blanco-marron-claro-s09384051/",
+        "name": "HEMNES",
+        "category": "Mueble salón",
+        "measures": "270x197",
+        "price": "977"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/havsta-zocalo-blanco-90539656/",
+        "name": "HAVSTA",
+        "category": "Zócalo",
+        "measures": "81x37x12",
+        "price": "30"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/lindasen-estante-exposicion-antracita-00515805/",
+        "name": "LINDÅSEN",
+        "category": "Estante exposición",
+        "measures": "40x60",
+        "price": "26"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/fjallbo-estanteria-negro-70339291/",
+        "name": "FJÄLLBO",
+        "category": "Estantería",
+        "measures": "100x136",
+        "price": "99"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/eket-combinacion-almacenaje-con-patas-blanco-s49189203/",
+        "name": "EKET",
+        "category": "Combinación de almacenaje con patas",
+        "measures": "105x35x72",
+        "price": "110"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/eket-combinacion-almacenaje-con-patas-blanco-amarillo-claro-s49521843/",
+        "name": "EKET",
+        "category": "Combinación de almacenaje con patas",
+        "measures": "105x35x107",
+        "price": "112"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/runmaro-estanteria-gris-oscuro-interior-exterior-10551317/",
+        "name": "RUNMARÖ",
+        "category": "Estantería",
+        "measures": "60x30x133",
+        "price": "24"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-ottebol-libreria-con-puertas-blanco-s19299038/",
+        "name": "BILLY / OTTEBOL",
+        "category": "Librería con puertas",
+        "measures": "40x42x202",
+        "price": "99"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/jonaxel-combinacion-almacenaje-blanco-s59297141/",
+        "name": "JONAXEL",
+        "category": "Combinación de almacenaje",
+        "measures": "25x51x70",
+        "price": "41"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/hyllis-estanteria-interior-exterior-s39318031/",
+        "name": "HYLLIS",
+        "category": "Estantería de interior y exterior",
+        "measures": "180x27x74-140",
+        "price": "44"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-libreria-blanco-90401932/",
+        "name": "BILLY",
+        "category": "Librería",
+        "measures": "80x40x202",
+        "price": "99"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/hejne-1-seccion-madera-conifera-s79031414/",
+        "name": "HEJNE",
+        "category": "1 sección",
+        "measures": "78x50x171",
+        "price": "49"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/eket-combinacion-almacenaje-con-patas-blanco-madera-s79386075/",
+        "name": "EKET",
+        "category": "Combinación de almacenaje con patas",
+        "measures": "35x35x80",
+        "price": "72"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-gnedby-libreria-blanco-s99017836/",
+        "name": "BILLY / GNEDBY",
+        "category": "Librería",
+        "measures": "200x28x202",
+        "price": "197"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/bergshult-pershult-combinacion-estantes-pared-blanco-blanco-s59291158/",
+        "name": "BERGSHULT / PERSHULT",
+        "category": "Combinación estantes de pared",
+        "measures": "120x30",
+        "price": "104"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-estanteria-con-soporte-efecto-roble-tinte-blanco-negro-s19442654/",
+        "name": "KALLAX",
+        "category": "Estantería con soporte",
+        "measures": "77x164",
+        "price": "79"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-estanteria-con-accesorios-blanco-s39017486/",
+        "name": "KALLAX",
+        "category": "Estantería con accesorios",
+        "measures": "147x147",
+        "price": "209"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/vittsjo-estanteria-negro-marron-vidrio-20213312/",
+        "name": "VITTSJÖ",
+        "category": "Estantería",
+        "measures": "100x175",
+        "price": "79"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/lack-estante-pared-blanco-50282177/",
+        "name": "LACK",
+        "category": "Estante de pared",
+        "measures": "30x26",
+        "price": "8"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-libreria-blanco-s49217734/",
+        "name": "BILLY",
+        "category": "Librería",
+        "measures": "40x28x237",
+        "price": "64"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-oxberg-estanteria-con-puerta-vidrio-blanco-vidrio-s39287398/",
+        "name": "BILLY / OXBERG",
+        "category": "Estantería con puerta de vidrio",
+        "measures": "40x30x202",
+        "price": "94"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/hogadal-puerta-blanco-bambu-tejido-80533283/",
+        "name": "HÖGADAL",
+        "category": "Puerta",
+        "measures": "40x192",
+        "price": "60"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/platsa-estanteria-azul-30559732/",
+        "name": "PLATSA",
+        "category": "Estantería",
+        "measures": "60x40x120",
+        "price": "79"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-vitrina-gris-efecto-metalico-00415603/",
+        "name": "BILLY",
+        "category": "Vitrina",
+        "measures": "80x30x202",
+        "price": "169"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-oxberg-combinacion-librerias-con-puertas-blanco-s99483594/",
+        "name": "BILLY / OXBERG",
+        "category": "Combinación librerías con puertas",
+        "measures": "160x106",
+        "price": "164"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-oxberg-bibloteca-con-puerta-vidrio-blanco-s29484021/",
+        "name": "BILLY / OXBERG",
+        "category": "Bibloteca con puerta de vidrio",
+        "measures": "40x30x106",
+        "price": "64"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/eket-mueble-almacenaje-blanco-60333954/",
+        "name": "EKET",
+        "category": "Mueble de almacenaje",
+        "measures": "70x35x70",
+        "price": "55"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/hyllis-estanteria-con-funda-transparente-s99291745/",
+        "name": "HYLLIS",
+        "category": "Estantería con funda",
+        "measures": "60x27x140",
+        "price": "23"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/lommarp-libreria-beige-claro-40436991/",
+        "name": "LOMMARP",
+        "category": "Librería",
+        "measures": "65x199",
+        "price": "169"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/ekenabben-estanteria-alamo-blanco-10487816/",
+        "name": "EKENABBEN",
+        "category": "Estantería",
+        "measures": "70x34x86",
+        "price": "39"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-oxberg-libreria-con-puerta-blanco-s69287392/",
+        "name": "BILLY / OXBERG",
+        "category": "Librería con puerta",
+        "measures": "40x30x106",
+        "price": "59"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/burhult-sibbhult-combinacion-estantes-pared-blanco-blanco-s09326099/",
+        "name": "BURHULT / SIBBHULT",
+        "category": "Combinación estantes de pared",
+        "measures": "59x20",
+        "price": "8"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/havrekross-organizador-pared-con-ganchos-beige-grisaceo-00569412/",
+        "name": "HAVREKROSS",
+        "category": "Organizador pared con ganchos",
+        "measures": "23x13",
+        "price": "1"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/eket-combinacion-almacenaje-con-patas-blanco-madera-s89386107/",
+        "name": "EKET",
+        "category": "Combinación de almacenaje con patas",
+        "measures": "140x35x80",
+        "price": "150"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-estanteria-con-soporte-verde-oscuro-negro-s19563580/",
+        "name": "KALLAX",
+        "category": "Estantería con soporte",
+        "measures": "77x39x164",
+        "price": "89"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/eket-combinacion-almacenaje-con-patas-blanco-s19494474/",
+        "name": "EKET",
+        "category": "Combinación de almacenaje con patas",
+        "measures": "70x35x72",
+        "price": "102"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/jattesta-estanteria-blanco-bambu-claro-10538849/",
+        "name": "JÄTTESTA",
+        "category": "Estantería",
+        "measures": "80x195",
+        "price": "169"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-accesorio-con-2-cajones-blanco-70286645/",
+        "name": "KALLAX",
+        "category": "Accesorio con 2 cajones",
+        "measures": "33x33",
+        "price": "20"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kolbjorn-armario-interior-exterior-beige-30409295/",
+        "name": "KOLBJÖRN",
+        "category": "Armario para interior o exterior",
+        "measures": "80x81",
+        "price": "89"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/eket-mueble-almacenaje-con-riel-efecto-nogal-blanco-verde-grisaceo-s89521681/",
+        "name": "EKET",
+        "category": "Mueble de almacenaje con riel",
+        "measures": "80x35x210",
+        "price": "170"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-oxberg-libreria-modulo-superior-puertas-blanco-s99424830/",
+        "name": "BILLY / OXBERG",
+        "category": "Librería módulo superior y puertas",
+        "measures": "40x30x237",
+        "price": "112"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-estanteria-con-2-accesorios-con-4-cajones-efecto-roble-tinte-blanco-s79197584/",
+        "name": "KALLAX",
+        "category": "Estantería con 2 accesorios",
+        "measures": "147x42",
+        "price": "84"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/boastad-estante-negro-chapa-roble-50527783/",
+        "name": "BOASTAD",
+        "category": "Estante",
+        "measures": "121x32x32",
+        "price": "179"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-combinacion-libreria-esquina-modulo-blanco-s29485836/",
+        "name": "BILLY",
+        "category": "Combinación librería esquina módulo",
+        "measures": "136/136x28x237",
+        "price": "239"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/spiksmed-estanteria-gris-claro-90565513/",
+        "name": "SPIKSMED",
+        "category": "Estantería",
+        "measures": "77x96x32",
+        "price": "64"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/skruvby-combinacion-almacenaje-blanco-s49561339/",
+        "name": "SKRUVBY",
+        "category": "Combinación de almacenaje",
+        "measures": "180x140",
+        "price": "228"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-balda-efecto-roble-20477398/",
+        "name": "BILLY",
+        "category": "Balda",
+        "measures": "76x26",
+        "price": "20"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-libreria-blanco-s89017827/",
+        "name": "BILLY",
+        "category": "Librería",
+        "measures": "200x28x237",
+        "price": "234"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/fjallbo-estanteria-negro-70342199/",
+        "name": "FJÄLLBO",
+        "category": "Estantería",
+        "measures": "51x136",
+        "price": "69"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-libreria-con-puerta-vidrio-blanco-s69398837/",
+        "name": "BILLY",
+        "category": "Librería con puerta de vidrio",
+        "measures": "80x42x202",
+        "price": "179"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-estanteria-con-4-cajones-blanco-s19552949/",
+        "name": "KALLAX",
+        "category": "Estantería",
+        "measures": "77x77",
+        "price": "74"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-estanteria-con-soporte-efecto-roble-tinte-blanco-negro-s39442672/",
+        "name": "KALLAX",
+        "category": "Estantería con soporte",
+        "measures": "147x59",
+        "price": "74"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-hogadal-libreria-con-puerta-blanco-s69562494/",
+        "name": "BILLY / HÖGADAL",
+        "category": "Librería con puerta",
+        "measures": "40x30x106",
+        "price": "69"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/tonstad-libreria-chapa-roble-70528461/",
+        "name": "TONSTAD",
+        "category": "Librería",
+        "measures": "82x37x201",
+        "price": "189"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-hogbo-combinacion-libreria-puertas-vidrio-blanco-s29494421/",
+        "name": "BILLY / HÖGBO",
+        "category": "Combinación librería puertas vidrio",
+        "measures": "40x30x106",
+        "price": "79"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/besta-mueble-salon-negro-marron-lappviken-stubbarp-negro-marron-s59301765/",
+        "name": "BESTÅ",
+        "category": "Mueble salón",
+        "measures": "120x42x202",
+        "price": "325"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/hastviskare-organizador-pared-con-ganchos-roble-30555296/",
+        "name": "HÄSTVISKARE",
+        "category": "Organizador pared con ganchos",
+        "measures": "42x15x11",
+        "price": "19"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-estanteria-con-puertas-blanco-s99017186/",
+        "name": "KALLAX",
+        "category": "Estantería con puertas",
+        "measures": "77x147",
+        "price": "89"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-accesorio-con-2-cajones-con-forma-ondulada-blanco-90508508/",
+        "name": "KALLAX",
+        "category": "Accesorio con 2 cajones",
+        "measures": "33x33",
+        "price": "25"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-libreria-con-cajon-blanco-s39483808/",
+        "name": "BILLY",
+        "category": "Librería con cajón",
+        "measures": "80x30x202",
+        "price": "94"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-oxberg-vitrina-blanco-s09484022/",
+        "name": "BILLY / OXBERG",
+        "category": "Vitrina",
+        "measures": "80x30x106",
+        "price": "104"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/eket-mueble-almacenaje-pared-blanco-s39285808/",
+        "name": "EKET",
+        "category": "Mueble de almacenaje en pared",
+        "measures": "35x25x35",
+        "price": "20"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-altillo-blanco-70401933/",
+        "name": "BILLY",
+        "category": "Altillo",
+        "measures": "80x40x35",
+        "price": "30"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/vihals-estanteria-10-baldas-blanco-70483274/",
+        "name": "VIHALS",
+        "category": "Estantería 10 baldas",
+        "measures": "95x37x200",
+        "price": "149"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-accesorio-con-4-baldas-blanco-40423719/",
+        "name": "KALLAX",
+        "category": "Accesorio con 4 baldas",
+        "measures": "33x33",
+        "price": "25"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/eket-mueble-almacenaje-con-vitrina-blanco-s29336356/",
+        "name": "EKET",
+        "category": "Mueble de almacenaje con vitrina",
+        "measures": "35x25x35",
+        "price": "35"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/hejne-balda-madera-conifera-80287809/",
+        "name": "HEJNE",
+        "category": "Balda",
+        "measures": "77x47",
+        "price": "15"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/idanas-vitrina-blanco-s79437273/",
+        "name": "IDANÄS",
+        "category": "Vitrina",
+        "measures": "244x39x211",
+        "price": "757"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/tranhult-sandshult-combinacion-estantes-pared-alamo-tinte-blanco-s09336338/",
+        "name": "TRANHULT / SANDSHULT",
+        "category": "Combinación estantes de pared",
+        "measures": "80x20",
+        "price": "83"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-ottebol-libreria-con-puertas-blanco-s99299039/",
+        "name": "BILLY / OTTEBOL",
+        "category": "Librería con puertas",
+        "measures": "80x42x202",
+        "price": "159"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/bergig-libreria-con-almacenaje-blanco-00472702/",
+        "name": "BERGIG",
+        "category": "Librería con almacenaje",
+        "measures": null,
+        "price": "149"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/platsa-estanteria-blanco-70452550/",
+        "name": "PLATSA",
+        "category": "Estantería",
+        "measures": "80x40x60",
+        "price": "55"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/havsta-vitrina-blanco-s49534893/",
+        "name": "HAVSTA",
+        "category": "Vitrina",
+        "measures": "243x47x212",
+        "price": "1.045"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-accesorio-con-puerta-con-forma-ondulada-blanco-10508507/",
+        "name": "KALLAX",
+        "category": "Accesorio con puerta",
+        "measures": "33x33",
+        "price": "15"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/vihals-combinacion-almacenaje-gris-oscuro-s99521204/",
+        "name": "VIHALS",
+        "category": "Combinación de almacenaje",
+        "measures": "190x47x90",
+        "price": "198"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-libreria-modextensalt-puertpnl-vdr-blanco-s29287346/",
+        "name": "BILLY",
+        "category": "Librería/módextensalt/puertpnl/vdr",
+        "measures": "80x30x237",
+        "price": "194"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-oxberg-libreria-blanco-s49017834/",
+        "name": "BILLY / OXBERG",
+        "category": "Librería",
+        "measures": "200x30x237",
+        "price": "494"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/akerbruk-organizador-pared-con-ganchos-80554077/",
+        "name": "ÅKERBRUK",
+        "category": "Organizador pared con ganchos",
+        "measures": "42x12x26",
+        "price": "9"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/eket-mueble-almacenaje-pared-2-cajones-blanco-s69329387/",
+        "name": "EKET",
+        "category": "Mueble almacenaje pared 2 cajones",
+        "measures": "35x35x35",
+        "price": "50"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/oxberg-puerta-vidrio-blanco-50275558/",
+        "name": "OXBERG",
+        "category": "Puerta de vidrio",
+        "measures": "40x192",
+        "price": "40"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/hyllis-funda-transparente-int-ext-80430204/",
+        "name": "HYLLIS",
+        "category": "Funda",
+        "measures": "60x27x140",
+        "price": "5"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/jattesta-estanteria-negro-00521905/",
+        "name": "JÄTTESTA",
+        "category": "Estantería",
+        "measures": "120x85",
+        "price": "129"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/vittsjo-combinacion-almacenaje-negro-marron-vidrio-s89294532/",
+        "name": "VITTSJÖ",
+        "category": "Combinación de almacenaje",
+        "measures": "200x36x175",
+        "price": "159"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/platsa-estanteria-azul-00559724/",
+        "name": "PLATSA",
+        "category": "Estantería",
+        "measures": "80x40x60",
+        "price": "55"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/apotekare-estante-negro-00550196/",
+        "name": "APOTEKARE",
+        "category": "Estante",
+        "measures": "50x52",
+        "price": "19"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/havsta-combi-almacenaje-puertas-vidrio-blanco-s39534902/",
+        "name": "HAVSTA",
+        "category": "Combi almacenaje puertas vidrio",
+        "measures": "243x47x212",
+        "price": "1.185"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-estanteria-con-soporte-negro-marron-negro-s89442617/",
+        "name": "KALLAX",
+        "category": "Estantería con soporte",
+        "measures": "77x94",
+        "price": "54"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/observator-cesta-colgante-marron-grisaceo-20312492/",
+        "name": "OBSERVATÖR",
+        "category": "Cesta colgante",
+        "measures": null,
+        "price": "5"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/hemnes-mueble-salon-tinte-rojo-tinte-marron-claro-s99494837/",
+        "name": "HEMNES",
+        "category": "Mueble salón",
+        "measures": "180x197",
+        "price": "578"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-combinacion-librerias-modulos-efecto-roble-s89483392/",
+        "name": "BILLY",
+        "category": "Combinación de librerías y módulos",
+        "measures": "120x28x237",
+        "price": "239"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/gullhult-estante-negro-pino-efecto-envejecido-80417735/",
+        "name": "GULLHULT",
+        "category": "Estante",
+        "measures": "30x40",
+        "price": "24"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/ivar-estanteria-con-caja-pino-s09404582/",
+        "name": "IVAR",
+        "category": "Estantería con caja",
+        "measures": "89x30x124",
+        "price": "85"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-balda-adicional-blanco-10265293/",
+        "name": "BILLY",
+        "category": "Balda adicional",
+        "measures": "36x26",
+        "price": "7"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/vihals-vitrina-gris-oscuro-vidrio-incoloro-s09521208/",
+        "name": "VIHALS",
+        "category": "Vitrina",
+        "measures": "190x37x90",
+        "price": "258"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/boaxel-lagkapten-estanteria-blanco-s69440643/",
+        "name": "BOAXEL / LAGKAPTEN",
+        "category": "Estantería",
+        "measures": "250x62x201",
+        "price": "306"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/vihals-vitrina-blanco-vidrio-incoloro-s29521207/",
+        "name": "VIHALS",
+        "category": "Vitrina",
+        "measures": "235x37x90",
+        "price": "278"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/malmback-estante-exposicion-blanco-20446236/",
+        "name": "MALMBÄCK",
+        "category": "Estante exposición",
+        "measures": "60",
+        "price": "7"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-oxberg-combinacion-libreria-puertas-vidrio-blanco-s19483606/",
+        "name": "BILLY / OXBERG",
+        "category": "Combinación librería puertas vidrio",
+        "measures": "160x202",
+        "price": "249"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-oxberg-libreria-con-puertas-modulos-blanco-s89483368/",
+        "name": "BILLY / OXBERG",
+        "category": "Librería con puertas y módulos",
+        "measures": "80x30x237",
+        "price": "184"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/boaxel-tendedero-blanco-60448747/",
+        "name": "BOAXEL",
+        "category": "Tendedero",
+        "measures": "60x40",
+        "price": "7"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-estanteria-con-soporte-verde-oscuro-negro-s99563581/",
+        "name": "KALLAX",
+        "category": "Estantería con soporte",
+        "measures": "147x39x94",
+        "price": "99"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/fjallbo-combinacion-estantes-pared-negro-s69338546/",
+        "name": "FJÄLLBO",
+        "category": "Combinación estantes de pared",
+        "measures": null,
+        "price": "79"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-libreria-con-puertas-negro-efecto-roble-s39563131/",
+        "name": "BILLY",
+        "category": "Librería con puertas",
+        "measures": "80x30x202",
+        "price": "149"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-estanteria-con-accesorios-blanco-s79278250/",
+        "name": "KALLAX",
+        "category": "Estantería con accesorios",
+        "measures": "147x112",
+        "price": "159"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/eket-combinacion-almacenaje-con-patas-blanco-efecto-nogal-s79490798/",
+        "name": "EKET",
+        "category": "Combinación de almacenaje con patas",
+        "measures": "35x35x107",
+        "price": "77"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-estanteria-con-10-accesorios-blanco-s09278338/",
+        "name": "KALLAX",
+        "category": "Estantería con 10 accesorios",
+        "measures": "182x182",
+        "price": "374"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/boaxel-combinacion-armario-blanco-s89384014/",
+        "name": "BOAXEL",
+        "category": "Combinación armario",
+        "measures": "125x40x101",
+        "price": "109"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/vihals-combinacion-almacenaje-blanco-s09440617/",
+        "name": "VIHALS",
+        "category": "Combinación de almacenaje",
+        "measures": "235x37x140",
+        "price": "268"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/eket-mueble-almacenaje-con-puerta-blanco-80332114/",
+        "name": "EKET",
+        "category": "Mueble de almacenaje con puerta",
+        "measures": "35x35x35",
+        "price": "25"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-estanteria-con-soporte-con-2-puertas-4-cajones-negro-marron-s59552914/",
+        "name": "KALLAX",
+        "category": "Estantería con soporte",
+        "measures": "147x94",
+        "price": "159"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-cajon-blanco-con-ruedas-20521693/",
+        "name": "BILLY",
+        "category": "Cajón",
+        "measures": "80x28x43",
+        "price": "35"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-oxberg-libreria-con-puertas-efecto-roble-s29563136/",
+        "name": "BILLY / OXBERG",
+        "category": "Librería con puertas",
+        "measures": "40x30x202",
+        "price": "94"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-estanteria-con-2-puertas-con-4-cajones-con-forma-ondulada-blanco-s09552940/",
+        "name": "KALLAX",
+        "category": "Estantería",
+        "measures": "147x77",
+        "price": "139"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/omar-seccion-estanteria-s19829090/",
+        "name": "OMAR",
+        "category": "Sección de estantería",
+        "measures": "46x36x181",
+        "price": "59"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/kallax-estanteria-blanco-30275861/",
+        "name": "KALLAX",
+        "category": "Estantería",
+        "measures": "147x147",
+        "price": "149"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-altillo-blanco-90263860/",
+        "name": "BILLY",
+        "category": "Altillo",
+        "measures": "40x28x35",
+        "price": "20"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/runmaro-estanteria-gris-oscuro-interior-exterior-10551322/",
+        "name": "RUNMARÖ",
+        "category": "Estantería",
+        "measures": "90x40x182",
+        "price": "79"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/platsa-estanteria-blanco-40452575/",
+        "name": "PLATSA",
+        "category": "Estantería",
+        "measures": "60x40x60",
+        "price": "45"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/boaxel-cesto-rejilla-blanco-20448749/",
+        "name": "BOAXEL",
+        "category": "Cesto de rejilla",
+        "measures": "60x40x15",
+        "price": "11"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/hauga-combinacion-almacenaje-blanco-s69388640/",
+        "name": "HAUGA",
+        "category": "Combinación de almacenaje",
+        "measures": "210x46x199",
+        "price": "368"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-oxberg-libreria-modulo-superior-puertas-blanco-vidrio-s39398853/",
+        "name": "BILLY / OXBERG",
+        "category": "Librería módulo superior y puertas",
+        "measures": "80x42x237",
+        "price": "259"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/vihals-estanterias-blanco-s19440565/",
+        "name": "VIHALS",
+        "category": "Estanterías",
+        "measures": "286x37x90",
+        "price": "239"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-libreria-blanco-s59182201/",
+        "name": "BILLY",
+        "category": "Librería",
+        "measures": "80x28x237",
+        "price": "84"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/svenshult-estante-con-almacenaje-marron-rojizo-efecto-roble-tinte-blanco-80400075/",
+        "name": "SVENSHULT",
+        "category": "Estante con almacenaje",
+        "measures": "41x20",
+        "price": "34"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/boastad-estante-negro-chapa-roble-00507018/",
+        "name": "BOASTAD",
+        "category": "Estante",
+        "measures": "181x32x32",
+        "price": "229"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/platsa-estanteria-blanco-10452548/",
+        "name": "PLATSA",
+        "category": "Estantería",
+        "measures": "80x40x40",
+        "price": "40"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/billy-oxberg-libreria-con-puerta-vidrio-blanco-s79280724/",
+        "name": "BILLY / OXBERG",
+        "category": "Librería con puerta de vidrio",
+        "measures": "160x30x202",
+        "price": "249"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/svenshult-estante-verde-grisaceo-90557259/",
+        "name": "SVENSHULT",
+        "category": "Estante",
+        "measures": "60x20",
+        "price": "17"
+    },
+    {
+        "url": "https://www.ikea.com/es/es/p/hejne-botellero-pino-40301119/",
+        "name": "HEJNE",
+        "category": "Botellero",
+        "measures": "77x28",
+        "price": "10"
+    }
+]
