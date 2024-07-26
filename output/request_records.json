@@ -1258,5 +1258,5332 @@
         "result": "No more 'Show more' buttons or an error occurred: Message: \nStacktrace:\n\tGetHandleVerifier [0x003BC1C3+27395]\n\t(No symbol) [0x00353DC4]\n\t(No symbol) [0x00251B7F]\n\t(No symbol) [0x00292C65]\n\t(No symbol) [0x00292D3B]\n\t(No symbol) [0x002CEC82]\n\t(No symbol) [0x002B39E4]\n\t(No symbol) [0x002CCB24]\n\t(No symbol) [0x002B3736]\n\t(No symbol) [0x00287541]\n\t(No symbol) [0x002880BD]\n\tGetHandleVerifier [0x00673A93+2876371]\n\tGetHandleVerifier [0x006C7F5D+3221661]\n\tGetHandleVerifier [0x0043D634+556916]\n\tGetHandleVerifier [0x0044474C+585868]\n\t(No symbol) [0x0035CE04]\n\t(No symbol) [0x00359818]\n\t(No symbol) [0x003599B7]\n\t(No symbol) [0x0034BF0E]\n\tBaseThreadInitThunk [0x75E47BA9+25]\n\tRtlInitializeExceptionChain [0x7720C10B+107]\n\tRtlClearBits [0x7720C08F+191]\n",
         "time_taken": "N/A",
         "url": "https://www.ikea.com/es/es/cat/cajas-organizadores-envases-st007/"
+    },
+    {
+        "timestamp": "2024-07-26 19:53:53",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.08",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:53:53",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:53:53",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:53:57",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:53:57",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.00",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:53:57",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:02",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:02",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.00",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:02",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:09",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:09",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:09",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:14",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:14",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:14",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:17",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:17",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:17",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:23",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:23",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:24",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:28",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:28",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:28",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:35",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:35",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:35",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:39",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:39",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:39",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.13",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:45",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:45",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.00",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:45",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:52",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:52",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.00",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:52",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:56",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:56",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.00",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:54:56",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.05",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:55:02",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:55:02",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.00",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:55:02",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.06",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:55:05",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:55:05",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.05",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:55:05",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.07",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:55:10",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:55:10",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.05",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:55:10",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.08",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:55:16",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:55:16",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.05",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:55:16",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:55:19",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:55:19",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.00",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:55:19",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.14",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:55:24",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:55:24",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:55:24",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.10",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:55:41",
+        "action": "Waiting for 'Show more' button",
+        "result": "No more 'Show more' buttons or an error occurred: Message: \nStacktrace:\n\tGetHandleVerifier [0x0075F653+11395]\n\t(No symbol) [0x0073B7A4]\n\t(No symbol) [0x00681A43]\n\t(No symbol) [0x006C56C8]\n\t(No symbol) [0x006C58AB]\n\t(No symbol) [0x007026A2]\n\t(No symbol) [0x006E71E4]\n\t(No symbol) [0x007003DC]\n\t(No symbol) [0x006E6F36]\n\t(No symbol) [0x006BA276]\n\t(No symbol) [0x006BAECD]\n\tGetHandleVerifier [0x00862403+1071667]\n\tGetHandleVerifier [0x0086C9C4+1114100]\n\tGetHandleVerifier [0x008654B2+1084130]\n\tGetHandleVerifier [0x0078013B+145259]\n\t(No symbol) [0x00741693]\n\t(No symbol) [0x0073EFB8]\n\t(No symbol) [0x0073F157]\n\t(No symbol) [0x0073842E]\n\tBaseThreadInitThunk [0x75B17BA9+25]\n\tRtlInitializeExceptionChain [0x77BEC10B+107]\n\tRtlClearBits [0x77BEC08F+191]\n",
+        "time_taken": "N/A",
+        "url": "https://www.ikea.com/es/es/cat/armarios-19053/"
+    },
+    {
+        "timestamp": "2024-07-26 19:55:49",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:55:49",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.00",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:55:49",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:55:56",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:55:56",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:55:56",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:02",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:02",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:02",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:08",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:08",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:08",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:14",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:14",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:14",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:19",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:19",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:19",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:22",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:22",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:22",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:27",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:27",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:27",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:30",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:30",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:30",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:35",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:35",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:35",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.05",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:41",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:41",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:41",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:48",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:48",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:48",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:51",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:51",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:51",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:58",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.07",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:58",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:56:59",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:04",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:04",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:04",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:07",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:07",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:07",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:14",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:14",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.00",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:14",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:20",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:20",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:20",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.06",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:27",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.26",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:27",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.00",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:27",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.07",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:31",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:31",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:31",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:38",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:38",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.00",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:38",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.05",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:43",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:43",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:43",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.07",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:49",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:49",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.00",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:50",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.09",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:56",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:56",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:57:56",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:02",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:02",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:02",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.06",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:09",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:09",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:09",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.08",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:15",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:15",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:15",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.09",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:19",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.16",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:19",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.00",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:19",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.17",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:23",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:23",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:23",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.07",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:28",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:29",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.05",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:29",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:32",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:32",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:32",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.06",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:39",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:39",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:39",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.10",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:46",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.10",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:46",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:46",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.10",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:49",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:49",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:49",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.09",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:52",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:52",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.00",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:52",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.10",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:57",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:57",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:58:57",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.10",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:04",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.17",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:04",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:04",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.05",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:11",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:11",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:11",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.11",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:18",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:18",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.05",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:18",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.11",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:21",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:21",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:21",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.11",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:25",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:25",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:26",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.13",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:29",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:29",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:29",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.13",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:33",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:33",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:33",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.19",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:37",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:37",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:37",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.18",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:43",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:43",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.06",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:43",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.15",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:47",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:47",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:47",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.10",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:53",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:53",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.00",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:53",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.26",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:59",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:59",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.06",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 19:59:59",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.11",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:04",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:04",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.05",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:04",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.19",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:11",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:12",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.05",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:12",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.17",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:16",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:16",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.05",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:16",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.19",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:23",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:23",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.05",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:23",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.16",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:28",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:28",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.05",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:28",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.09",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:34",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:35",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.06",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:35",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.18",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:41",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.20",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:41",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.21",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:41",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.22",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:47",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:47",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:48",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.15",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:54",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:54",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.06",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:54",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.10",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:58",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.90",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:58",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.06",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:00:58",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.10",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:02",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:02",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.06",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:02",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.11",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:06",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.18",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:06",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.06",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:07",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.23",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:11",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:11",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.07",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:11",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.20",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:15",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:15",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.07",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:15",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.20",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:21",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:21",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.08",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:21",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.11",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:27",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:27",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.06",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:28",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.28",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:32",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.18",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:32",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.07",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:32",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.16",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:38",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:38",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:38",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.18",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:43",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:43",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.06",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:44",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.37",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:48",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "1.43",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:48",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:48",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.23",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:53",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "1.74",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:53",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:53",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.11",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:59",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:01:59",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.09",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:00",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.38",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:05",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "2.31",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:05",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.07",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:06",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.56",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:12",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.17",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:12",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:12",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.36",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:18",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "2.53",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:18",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:18",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.35",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:25",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:25",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:26",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.38",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:31",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.17",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:31",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.09",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:31",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.40",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:36",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:36",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.08",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:37",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.40",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:42",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "2.18",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:42",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.07",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:43",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.41",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:50",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:50",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.10",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:50",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.42",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:55",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "1.18",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:55",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.09",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:02:56",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.15",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:03:01",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "2.88",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:03:02",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.11",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:03:02",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.41",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:03:07",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "1.41",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:03:07",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.00",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:03:08",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.43",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:03:13",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "1.51",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:03:13",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.09",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:03:14",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.17",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:03:21",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:03:21",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.08",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:03:21",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.47",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:03:27",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "1.99",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:03:27",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.09",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:03:28",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.49",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:03:34",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.82",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:03:34",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.09",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:03:34",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.18",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:03:40",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "2.10",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:03:40",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.00",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:03:40",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.17",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:03:47",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "2.39",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:03:47",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:03:47",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.14",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:03:53",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.62",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:03:53",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.10",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:03:54",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.23",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:04:00",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "2.42",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:04:00",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.00",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:04:01",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.48",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:04:04",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:04:04",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.10",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:04:07",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "3.82",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:04:14",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "2.47",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:04:14",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.10",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:04:14",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.23",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:04:21",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "1.81",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:04:21",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.11",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:04:22",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.56",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:04:25",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:04:25",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.09",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:04:29",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "3.91",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:04:36",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.04",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:04:36",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.10",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:04:37",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.54",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:04:44",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:04:44",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.10",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:04:44",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.19",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:04:51",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:04:51",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.11",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:04:51",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.49",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:04:58",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "1.62",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:04:58",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:04:59",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.51",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:05:06",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "1.20",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:05:06",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.10",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:05:07",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.64",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:05:13",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "2.52",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:05:13",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.10",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:05:14",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.60",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:05:21",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "3.39",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:05:21",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.10",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:05:22",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.48",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:05:26",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.12",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:05:26",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.43",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:05:27",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.23",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:05:34",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.93",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:05:34",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:05:39",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "4.55",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:05:42",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.06",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:05:42",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.00",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:05:43",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.56",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:05:46",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.49",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:05:46",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.13",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:05:52",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "6.05",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:06:00",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "4.26",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:06:00",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.10",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:06:01",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.87",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:06:08",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "2.41",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:06:08",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.00",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:06:09",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.67",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:06:17",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "1.65",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:06:17",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.13",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:06:18",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.57",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:06:26",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "3.54",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:06:26",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.11",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:06:26",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.65",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:06:29",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:06:30",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.11",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:06:30",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.20",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:06:33",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.70",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:06:34",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.13",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:06:34",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.74",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:06:41",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "2.06",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:06:41",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:06:42",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.19",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:06:50",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "3.33",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:06:50",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.14",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:06:51",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.75",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:06:59",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "2.91",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:06:59",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.14",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:07:00",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.65",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:07:07",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "1.75",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:07:07",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.00",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:07:08",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.24",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:07:16",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "2.88",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:07:17",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.13",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:07:17",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.67",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:07:21",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.95",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:07:21",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.14",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:07:22",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.25",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:07:31",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "5.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:07:31",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.14",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:07:31",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.69",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:07:40",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "2.46",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:07:40",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.13",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:07:41",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.79",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:07:51",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "2.73",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:07:51",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:07:51",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.65",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:08:01",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "2.64",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:08:01",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.15",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:08:02",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.72",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:08:06",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.88",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:08:06",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.15",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:08:07",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.74",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:08:15",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "3.49",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:08:15",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.14",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:08:16",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.73",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:08:25",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "1.81",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:08:25",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.16",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:08:26",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.66",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:08:35",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "3.19",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:08:35",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.15",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:08:36",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.86",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:08:45",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "4.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:08:45",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.15",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:08:51",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "5.83",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:08:55",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "1.00",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:08:55",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.14",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:08:55",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.32",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:09:05",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "3.13",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:09:05",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.14",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:09:06",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.74",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:09:15",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "3.27",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:09:16",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.14",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:09:16",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.80",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:09:26",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "5.45",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:09:26",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.14",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:09:27",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.79",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:09:36",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "2.62",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:09:37",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.14",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:09:37",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.72",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:09:45",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "3.16",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:09:45",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.00",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:09:46",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.88",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:10:02",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "11.14",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:10:02",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:10:02",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.66",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:10:13",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "3.70",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:10:13",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.12",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:10:14",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.60",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:10:18",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "1.73",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:10:18",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.15",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:10:19",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.80",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:10:29",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "4.74",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:10:29",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.15",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:10:30",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.87",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:10:40",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "6.84",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:10:40",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.15",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:10:41",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.82",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:10:51",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "5.60",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:10:51",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.15",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:10:51",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.83",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:11:02",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "3.36",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:11:02",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.15",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:11:08",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "6.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:11:13",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.27",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:11:13",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.15",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:11:14",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.86",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:11:25",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "4.37",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:11:25",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.17",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:11:26",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.76",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:11:36",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "7.17",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:11:36",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.17",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:11:37",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.89",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:11:47",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "2.91",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:11:47",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.16",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:11:48",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.89",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:11:58",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "6.35",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:11:58",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.14",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:11:59",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "1.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:12:19",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "14.42",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:12:19",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.00",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:12:19",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.69",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:12:25",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "2.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:12:25",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.15",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:12:32",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "7.78",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:12:38",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.76",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:12:38",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.17",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:12:46",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "7.57",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:13:01",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "12.12",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:13:01",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.09",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:13:02",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.90",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:13:08",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "2.23",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:13:08",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.17",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:13:16",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "7.24",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:13:27",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "5.23",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:13:27",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.19",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:13:28",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "1.07",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:13:34",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.64",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:13:34",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.22",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:13:41",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "7.13",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:13:53",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "4.60",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:13:53",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.17",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:13:54",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.61",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:13:59",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "2.72",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:13:59",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.16",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:14:00",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.85",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:14:12",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "5.63",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:14:12",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.16",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:14:13",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.98",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:14:25",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "9.09",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:14:25",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.20",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:14:26",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.92",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:14:38",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "4.43",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:14:38",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.18",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:14:45",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "7.05",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:14:58",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "5.73",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:14:58",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.17",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:14:59",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "1.00",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:15:05",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "3.18",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:15:05",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.17",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:15:13",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "7.47",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:15:19",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "1.83",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:15:19",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.17",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:15:20",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.88",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:15:31",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "5.78",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:15:32",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.18",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:15:33",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.98",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:15:53",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "17.04",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:15:54",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "1.81",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:15:56",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "2.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:16:12",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "8.14",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:16:12",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.01",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:16:12",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.37",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:16:27",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "8.51",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:16:27",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.00",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:16:27",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.79",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:16:40",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "10.07",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:16:40",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.00",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:16:41",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.82",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:16:47",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.60",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:16:47",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.19",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:16:48",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.91",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:17:01",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "8.87",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:17:01",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.17",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:17:09",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "8.50",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:17:16",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "3.45",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:17:16",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:17:17",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.82",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:17:37",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "17.61",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:17:37",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:17:38",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.90",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:17:52",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "8.67",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:17:52",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:17:58",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "5.76",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:18:05",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "1.96",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:18:05",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.18",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:18:14",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "8.82",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:18:20",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.88",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:18:20",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.19",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:18:27",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "6.75",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:18:34",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "4.54",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:18:34",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.20",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:18:42",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "8.19",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:18:48",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "2.61",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:18:48",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.18",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:18:56",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "7.56",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:19:10",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "11.07",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:19:10",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.21",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:19:11",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.47",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:19:17",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "2.69",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:19:18",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.21",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:19:26",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "8.65",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:19:33",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "3.49",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:19:33",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.23",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:19:41",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "7.68",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:19:48",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "3.13",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:19:48",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.19",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:19:57",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "8.69",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:20:03",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.09",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:20:03",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.21",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:20:12",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "9.32",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:20:27",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "11.83",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:20:27",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:20:28",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.96",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:20:51",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "16.54",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:20:51",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:20:52",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.94",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:20:57",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "1.56",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:20:57",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.22",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:21:06",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "8.52",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:21:19",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "8.74",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:21:19",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.19",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:21:19",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.36",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:21:26",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "3.59",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:21:26",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.20",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:21:38",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "11.94",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:21:45",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "3.70",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:21:45",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.17",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:21:53",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "8.37",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:22:01",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.71",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:22:01",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.22",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:22:11",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "9.76",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:22:29",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "12.31",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:22:29",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:22:30",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "1.18",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:22:47",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "10.53",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:22:47",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:22:48",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "1.06",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:23:05",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "12.46",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:23:05",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.02",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:23:06",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.32",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:23:14",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "2.37",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:23:14",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.19",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:23:22",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "7.81",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:23:37",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "11.89",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:23:37",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:23:38",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "1.03",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:23:52",
+        "action": "Waiting for 'Show more' button",
+        "result": "Success",
+        "time_taken": "7.80",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:23:52",
+        "action": "Scrolling to 'Show more' button",
+        "result": "Success",
+        "time_taken": "0.20",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:23:53",
+        "action": "Clicking 'Show more' button",
+        "result": "Success",
+        "time_taken": "1.17",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-26 20:24:10",
+        "action": "Waiting for 'Show more' button",
+        "result": "No more 'Show more' buttons or an error occurred: Message: \nStacktrace:\n\tGetHandleVerifier [0x0075F653+11395]\n\t(No symbol) [0x0073B7A4]\n\t(No symbol) [0x00681A43]\n\t(No symbol) [0x006C56C8]\n\t(No symbol) [0x006C58AB]\n\t(No symbol) [0x007026A2]\n\t(No symbol) [0x006E71E4]\n\t(No symbol) [0x007003DC]\n\t(No symbol) [0x006E6F36]\n\t(No symbol) [0x006BA276]\n\t(No symbol) [0x006BAECD]\n\tGetHandleVerifier [0x00862403+1071667]\n\tGetHandleVerifier [0x0086C9C4+1114100]\n\tGetHandleVerifier [0x008654B2+1084130]\n\tGetHandleVerifier [0x0078013B+145259]\n\t(No symbol) [0x00741693]\n\t(No symbol) [0x0073EFB8]\n\t(No symbol) [0x0073F157]\n\t(No symbol) [0x0073842E]\n\tBaseThreadInitThunk [0x75B17BA9+25]\n\tRtlInitializeExceptionChain [0x77BEC10B+107]\n\tRtlClearBits [0x77BEC08F+191]\n",
+        "time_taken": "N/A",
+        "url": "https://www.ikea.com/es/es/cat/sistemas-almacenaje-46052/"
+    },
+    {
+        "timestamp": "2024-07-27 01:11:57",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.51"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:00",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.50"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:02",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.42"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:06",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.68"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:08",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.45"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:11",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.53"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:13",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.44"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:15",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.45"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:19",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.42"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:21",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.46"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:24",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.42"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:27",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.92"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:28",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.43"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:30",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.43"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:35",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "1.06"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:37",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.47"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:40",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.49"
+    },
+    {
+        "timestamp": "2024-07-27 01:15:23",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.46"
+    },
+    {
+        "timestamp": "2024-07-27 01:15:24",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.46"
+    },
+    {
+        "timestamp": "2024-07-27 01:15:28",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.44"
+    },
+    {
+        "timestamp": "2024-07-27 01:15:31",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.42"
+    },
+    {
+        "timestamp": "2024-07-27 01:15:34",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.50"
+    },
+    {
+        "timestamp": "2024-07-27 01:15:36",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.49"
+    },
+    {
+        "timestamp": "2024-07-27 01:15:37",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.54"
+    },
+    {
+        "timestamp": "2024-07-27 01:15:40",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.47"
+    },
+    {
+        "timestamp": "2024-07-27 01:15:41",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.42"
+    },
+    {
+        "timestamp": "2024-07-27 01:15:43",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.50"
+    },
+    {
+        "timestamp": "2024-07-27 01:20:31",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.52"
+    },
+    {
+        "timestamp": "2024-07-27 01:20:35",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.40"
+    },
+    {
+        "timestamp": "2024-07-27 01:20:37",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.49"
+    },
+    {
+        "timestamp": "2024-07-27 01:20:40",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.42"
+    },
+    {
+        "timestamp": "2024-07-27 01:20:42",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.43"
+    },
+    {
+        "timestamp": "2024-07-27 01:11:57",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.51"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:00",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.50"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:02",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.42"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:06",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.68"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:08",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.45"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:11",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.53"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:13",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.44"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:15",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.45"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:19",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.42"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:21",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.46"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:24",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.42"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:27",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.92"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:28",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.43"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:30",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.43"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:35",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "1.06"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:37",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.47"
+    },
+    {
+        "timestamp": "2024-07-27 01:12:40",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.49"
+    },
+    {
+        "timestamp": "2024-07-27 01:15:23",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.46"
+    },
+    {
+        "timestamp": "2024-07-27 01:15:24",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.46"
+    },
+    {
+        "timestamp": "2024-07-27 01:15:28",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.44"
+    },
+    {
+        "timestamp": "2024-07-27 01:15:31",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.42"
+    },
+    {
+        "timestamp": "2024-07-27 01:15:34",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.50"
+    },
+    {
+        "timestamp": "2024-07-27 01:15:36",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.49"
+    },
+    {
+        "timestamp": "2024-07-27 01:15:37",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.54"
+    },
+    {
+        "timestamp": "2024-07-27 01:15:40",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.47"
+    },
+    {
+        "timestamp": "2024-07-27 01:15:41",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.42"
+    },
+    {
+        "timestamp": "2024-07-27 01:15:43",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.50"
+    },
+    {
+        "timestamp": "2024-07-27 01:20:31",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.52"
+    },
+    {
+        "timestamp": "2024-07-27 01:20:35",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.40"
+    },
+    {
+        "timestamp": "2024-07-27 01:20:37",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.49"
+    },
+    {
+        "timestamp": "2024-07-27 01:20:40",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.42"
+    },
+    {
+        "timestamp": "2024-07-27 01:20:42",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.43"
+    },
+    {
+        "timestamp": "2024-07-27 01:29:24",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.47"
+    },
+    {
+        "timestamp": "2024-07-27 01:29:25",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.54"
+    },
+    {
+        "timestamp": "2024-07-27 01:29:27",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.44"
+    },
+    {
+        "timestamp": "2024-07-27 01:29:30",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.51"
+    },
+    {
+        "timestamp": "2024-07-27 01:29:32",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.43"
+    },
+    {
+        "timestamp": "2024-07-27 01:29:35",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.47"
+    },
+    {
+        "timestamp": "2024-07-27 01:29:38",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.50"
+    },
+    {
+        "timestamp": "2024-07-27 01:29:40",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.47"
+    },
+    {
+        "timestamp": "2024-07-27 01:29:43",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.47"
+    },
+    {
+        "timestamp": "2024-07-27 01:29:46",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.51"
+    },
+    {
+        "timestamp": "2024-07-27 01:29:49",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.49"
+    },
+    {
+        "timestamp": "2024-07-27 01:29:53",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.45"
+    },
+    {
+        "timestamp": "2024-07-27 01:29:55",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.96"
+    },
+    {
+        "timestamp": "2024-07-27 01:31:50",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.46"
+    },
+    {
+        "timestamp": "2024-07-27 01:31:52",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.45"
+    },
+    {
+        "timestamp": "2024-07-27 01:31:55",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.47"
+    },
+    {
+        "timestamp": "2024-07-27 01:31:58",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.44"
+    },
+    {
+        "timestamp": "2024-07-27 01:32:01",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.57"
+    },
+    {
+        "timestamp": "2024-07-27 01:32:05",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.44"
+    },
+    {
+        "timestamp": "2024-07-27 01:32:07",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.44"
+    },
+    {
+        "timestamp": "2024-07-27 01:32:09",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.51"
+    },
+    {
+        "timestamp": "2024-07-27 01:32:12",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.66"
+    },
+    {
+        "timestamp": "2024-07-27 01:33:09",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.49"
+    },
+    {
+        "timestamp": "2024-07-27 01:33:12",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.40"
+    },
+    {
+        "timestamp": "2024-07-27 01:33:13",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.42"
+    },
+    {
+        "timestamp": "2024-07-27 01:33:17",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.51"
+    },
+    {
+        "timestamp": "2024-07-27 01:33:19",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.45"
+    },
+    {
+        "timestamp": "2024-07-27 01:33:22",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.52"
+    },
+    {
+        "timestamp": "2024-07-27 01:33:24",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.49"
+    },
+    {
+        "timestamp": "2024-07-27 01:33:27",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.46"
+    },
+    {
+        "timestamp": "2024-07-27 01:33:30",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.46"
+    },
+    {
+        "timestamp": "2024-07-27 01:34:05",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.44"
+    },
+    {
+        "timestamp": "2024-07-27 01:34:07",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.43"
+    },
+    {
+        "timestamp": "2024-07-27 01:34:08",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.41"
+    },
+    {
+        "timestamp": "2024-07-27 01:34:10",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.61"
+    },
+    {
+        "timestamp": "2024-07-27 01:34:12",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.42"
+    },
+    {
+        "timestamp": "2024-07-27 01:34:16",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.43"
+    },
+    {
+        "timestamp": "2024-07-27 01:34:19",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.41"
+    },
+    {
+        "timestamp": "2024-07-27 01:34:22",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.46"
+    },
+    {
+        "timestamp": "2024-07-27 01:34:23",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.54"
+    },
+    {
+        "timestamp": "2024-07-27 01:34:26",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.52"
+    },
+    {
+        "timestamp": "2024-07-27 01:34:30",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.54"
+    },
+    {
+        "timestamp": "2024-07-27 01:34:32",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.46"
+    },
+    {
+        "timestamp": "2024-07-27 01:34:35",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.45"
+    },
+    {
+        "timestamp": "2024-07-27 01:34:37",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "1.54"
+    },
+    {
+        "timestamp": "2024-07-27 01:34:41",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.46"
+    },
+    {
+        "timestamp": "2024-07-27 01:34:42",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.47"
+    },
+    {
+        "timestamp": "2024-07-27 01:34:44",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.46"
+    },
+    {
+        "timestamp": "2024-07-27 01:34:45",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.49"
+    },
+    {
+        "timestamp": "2024-07-27 01:34:49",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.56"
+    },
+    {
+        "timestamp": "2024-07-27 01:34:51",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.56"
+    },
+    {
+        "timestamp": "2024-07-27 01:34:53",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.44"
+    },
+    {
+        "timestamp": "2024-07-27 01:34:55",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.52"
+    },
+    {
+        "timestamp": "2024-07-27 01:34:59",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.99"
+    },
+    {
+        "timestamp": "2024-07-27 01:35:00",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.50"
+    },
+    {
+        "timestamp": "2024-07-27 01:35:02",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.48"
+    },
+    {
+        "timestamp": "2024-07-27 01:35:03",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.44"
+    },
+    {
+        "timestamp": "2024-07-27 01:35:06",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.44"
+    },
+    {
+        "timestamp": "2024-07-27 01:35:08",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.44"
+    },
+    {
+        "timestamp": "2024-07-27 01:35:12",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.63"
+    },
+    {
+        "timestamp": "2024-07-27 01:35:15",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.46"
+    },
+    {
+        "timestamp": "2024-07-27 01:35:17",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.45"
+    },
+    {
+        "timestamp": "2024-07-27 01:35:19",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.42"
+    },
+    {
+        "timestamp": "2024-07-27 01:35:22",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.52"
+    },
+    {
+        "timestamp": "2024-07-27 01:35:25",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.47"
+    },
+    {
+        "timestamp": "2024-07-27 01:35:28",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.47"
+    },
+    {
+        "timestamp": "2024-07-27 01:35:32",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.53"
+    },
+    {
+        "timestamp": "2024-07-27 01:35:34",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.47"
+    },
+    {
+        "timestamp": "2024-07-27 01:35:37",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.46"
+    },
+    {
+        "timestamp": "2024-07-27 01:35:38",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.45"
+    },
+    {
+        "timestamp": "2024-07-27 01:35:40",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.58"
+    },
+    {
+        "timestamp": "2024-07-27 01:35:41",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.43"
+    },
+    {
+        "timestamp": "2024-07-27 01:35:43",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.50"
+    },
+    {
+        "timestamp": "2024-07-27 01:35:45",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.46"
+    },
+    {
+        "timestamp": "2024-07-27 01:35:48",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.49"
+    },
+    {
+        "timestamp": "2024-07-27 01:35:51",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.48"
+    },
+    {
+        "timestamp": "2024-07-27 01:35:54",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.44"
+    },
+    {
+        "timestamp": "2024-07-27 01:35:57",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.46"
+    },
+    {
+        "timestamp": "2024-07-27 01:36:00",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.51"
+    },
+    {
+        "timestamp": "2024-07-27 01:36:01",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.47"
+    },
+    {
+        "timestamp": "2024-07-27 01:36:03",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.47"
+    },
+    {
+        "timestamp": "2024-07-27 01:36:05",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.51"
+    },
+    {
+        "timestamp": "2024-07-27 01:36:08",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.53"
+    },
+    {
+        "timestamp": "2024-07-27 01:36:11",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.50"
+    },
+    {
+        "timestamp": "2024-07-27 01:36:12",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.49"
+    },
+    {
+        "timestamp": "2024-07-27 01:36:14",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.44"
+    },
+    {
+        "timestamp": "2024-07-27 01:36:17",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.50"
+    },
+    {
+        "timestamp": "2024-07-27 01:36:21",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.45"
+    },
+    {
+        "timestamp": "2024-07-27 01:36:23",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.41"
+    },
+    {
+        "timestamp": "2024-07-27 01:36:27",
+        "action": "Request to individual product page",
+        "result": "Success",
+        "time_taken": "0.45"
     }
 ]
