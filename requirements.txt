@@ -1,3 +1,6 @@
 selenium==4.23.1
 beautifulsoup4==4.12.3
 webdriver-manager==4.0.2
+pyarrow==17.0.0
+pandas==2.2.2
+requests=2.31.0

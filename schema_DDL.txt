@@ -1,0 +1,27 @@
+Table products {
+  id bigint
+  item_number string
+  ensembled_measurements string
+  name string
+  category string
+  price float
+  currency string
+  url string // can be NULL
+  product_components MAP//<item_number, item_number> // one product can be made up of other products 
+  // which are also sold separately, we have a dictionary of the id and the number
+}
+
+Table packages {
+  // describes all individual packages a product is made of
+  id bigint
+  product_item_number string
+  width float
+  length float
+  height float
+  weight float
+  distance_units string
+  weight_units string
+}
+
+Ref: products.product_components <> products.item_number
+Ref: products.item_number < packages.product_item_number
