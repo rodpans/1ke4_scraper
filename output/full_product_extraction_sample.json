@@ -11,6 +11,7 @@
                 "name": "BILLY",
                 "typeName": "Librer\u00eda",
                 "itemNo": "00263850",
+                "subitemNo": "1",
                 "articleNumber": "002.638.50",
                 "measurements": 
                     {
@@ -42,32 +43,10 @@
         "category": "Librer\u00eda con puerta de vidrio",
         "packages": [
             {
-                "name": "BILLY / OXBERG",
-                "typeName": "Librer\u00eda con puerta de vidrio",
-                "itemNo": "69281776",
-                "articleNumber": "692.817.76",
-                "measurements": {
-                    "dimensions": {
-                        "width": null,
-                        "height": null,
-                        "length": null,
-                        "unit": "cm"
-                    },
-                    "weight": {
-                        "value": null,
-                        "unit": "kg"
-                    },
-                    "volume": {
-                        "value": null,
-                        "unit": "cm3"
-                    }
-                },
-                "quantity": 1
-            },
-            {
                 "name": "BILLY",
                 "typeName": "Librer\u00eda",
                 "itemNo": "00263850",
+                "subitemNo": "1",
                 "articleNumber": "002.638.50",
                 "measurements": {
                     "dimensions": {
@@ -91,6 +70,7 @@
                 "name": "OXBERG",
                 "typeName": "Puerta de vidrio",
                 "itemNo": "50275558",
+                "subitemNo": "1",
                 "articleNumber": "502.755.58",
                 "measurements": {
                     "dimensions": {
@@ -124,6 +104,7 @@
                 "name": "BILLY",
                 "typeName": "Combinaci\u00f3n librer\u00eda m\u00f3dulo esquina",
                 "itemNo": "99395936",
+                "subitemNo": "1",
                 "articleNumber": "993.959.36",
                 "measurements": {
                     "dimensions": {
@@ -147,6 +128,7 @@
                 "name": "BILLY",
                 "typeName": "Librer\u00eda",
                 "itemNo": "50263838",
+                "subitemNo": "1",
                 "articleNumber": "502.638.38",
                 "measurements": {
                     "dimensions": {
@@ -170,6 +152,7 @@
                 "name": "BILLY",
                 "typeName": "Herraje de esquina",
                 "itemNo": "40104109",
+                "subitemNo": "1",
                 "articleNumber": "401.041.09",
                 "measurements": {
                     "dimensions": {
