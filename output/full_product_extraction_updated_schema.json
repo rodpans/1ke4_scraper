@@ -120,17 +120,17 @@
                 "articleNumber": "604.135.02",
                 "measurements": {
                     "dimensions": {
-                        "width": 44.0,
+                        "width": 38.0,
                         "unit": "cm",
-                        "height": 6.0,
-                        "length": 200.0
+                        "height": 14.0,
+                        "length": 94.0
                     },
                     "weight": {
-                        "value": 14.45,
+                        "value": 18.01,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 52800.0,
+                        "value": 50008.0,
                         "unit": "cm3"
                     }
                 },
@@ -321,15 +321,15 @@
                     "dimensions": {
                         "width": 36.0,
                         "unit": "cm",
-                        "height": 6.0,
-                        "length": 193.0
+                        "height": 11.0,
+                        "length": 86.0
                     },
                     "weight": {
-                        "value": 25.6,
+                        "value": 16.1,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 41688.0,
+                        "value": 34056.0,
                         "unit": "cm3"
                     }
                 },
@@ -709,14 +709,14 @@
                         "width": 47.0,
                         "unit": "cm",
                         "height": 8.0,
-                        "length": 125.0
+                        "length": 74.0
                     },
                     "weight": {
-                        "value": 22.0,
+                        "value": 16.0,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 47000.0,
+                        "value": 27824.0,
                         "unit": "cm3"
                     }
                 },
@@ -730,17 +730,17 @@
                 "articleNumber": "204.150.46",
                 "measurements": {
                     "dimensions": {
-                        "width": 47.0,
+                        "width": 42.0,
                         "unit": "cm",
-                        "height": 8.0,
-                        "length": 125.0
+                        "height": 11.0,
+                        "length": 72.0
                     },
                     "weight": {
-                        "value": 22.0,
+                        "value": 19.0,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 47000.0,
+                        "value": 33264.0,
                         "unit": "cm3"
                     }
                 },
@@ -1154,17 +1154,17 @@
                 "articleNumber": "504.135.07",
                 "measurements": {
                     "dimensions": {
-                        "width": 44.0,
+                        "width": 38.0,
                         "unit": "cm",
-                        "height": 10.0,
-                        "length": 200.0
+                        "height": 13.0,
+                        "length": 101.0
                     },
                     "weight": {
-                        "value": 28.78,
+                        "value": 20.18,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 88000.0,
+                        "value": 49894.0,
                         "unit": "cm3"
                     }
                 },
@@ -1613,17 +1613,17 @@
                 "articleNumber": "504.135.07",
                 "measurements": {
                     "dimensions": {
-                        "width": 44.0,
+                        "width": 38.0,
                         "unit": "cm",
-                        "height": 10.0,
-                        "length": 200.0
+                        "height": 13.0,
+                        "length": 101.0
                     },
                     "weight": {
-                        "value": 28.78,
+                        "value": 20.18,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 88000.0,
+                        "value": 49894.0,
                         "unit": "cm3"
                     }
                 },
@@ -1803,15 +1803,15 @@
                     "dimensions": {
                         "width": 41.0,
                         "unit": "cm",
-                        "height": 13.0,
+                        "height": 12.0,
                         "length": 144.0
                     },
                     "weight": {
-                        "value": 16.55,
+                        "value": 14.4,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 76752.0,
+                        "value": 70848.0,
                         "unit": "cm3"
                     }
                 },
@@ -1895,17 +1895,17 @@
                 "articleNumber": "804.878.13",
                 "measurements": {
                     "dimensions": {
-                        "width": 9.0,
+                        "width": 38.0,
                         "unit": "cm",
-                        "height": 7.0,
-                        "length": 164.0
+                        "height": 9.0,
+                        "length": 82.0
                     },
                     "weight": {
-                        "value": 3.69,
+                        "value": 7.98,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 10332.0,
+                        "value": 28044.0,
                         "unit": "cm3"
                     }
                 },
@@ -2048,17 +2048,17 @@
                 "articleNumber": "703.015.37",
                 "measurements": {
                     "dimensions": {
-                        "width": 40.0,
+                        "width": 41.0,
                         "unit": "cm",
-                        "height": 7.0,
-                        "length": 179.0
+                        "height": 8.0,
+                        "length": 187.0
                     },
                     "weight": {
-                        "value": 16.9,
+                        "value": 11.5,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 50120.0,
+                        "value": 61336.0,
                         "unit": "cm3"
                     }
                 },
@@ -2072,17 +2072,17 @@
                 "articleNumber": "703.015.37",
                 "measurements": {
                     "dimensions": {
-                        "width": 40.0,
+                        "width": 41.0,
                         "unit": "cm",
-                        "height": 7.0,
-                        "length": 179.0
+                        "height": 8.0,
+                        "length": 186.0
                     },
                     "weight": {
-                        "value": 16.9,
+                        "value": 11.4,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 50120.0,
+                        "value": 61008.0,
                         "unit": "cm3"
                     }
                 },
@@ -2096,17 +2096,17 @@
                 "articleNumber": "703.015.37",
                 "measurements": {
                     "dimensions": {
-                        "width": 40.0,
+                        "width": 41.0,
                         "unit": "cm",
                         "height": 7.0,
                         "length": 179.0
                     },
                     "weight": {
-                        "value": 16.9,
+                        "value": 17.0,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 50120.0,
+                        "value": 51373.0,
                         "unit": "cm3"
                     }
                 },
@@ -3416,15 +3416,15 @@
                     "dimensions": {
                         "width": 41.0,
                         "unit": "cm",
-                        "height": 13.0,
+                        "height": 12.0,
                         "length": 144.0
                     },
                     "weight": {
-                        "value": 16.55,
+                        "value": 14.4,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 76752.0,
+                        "value": 70848.0,
                         "unit": "cm3"
                     }
                 },
@@ -3545,17 +3545,17 @@
                 "articleNumber": "605.687.25",
                 "measurements": {
                     "dimensions": {
-                        "width": 36.0,
+                        "width": 39.0,
                         "unit": "cm",
-                        "height": 14.0,
-                        "length": 93.0
+                        "height": 8.0,
+                        "length": 133.0
                     },
                     "weight": {
-                        "value": 26.82,
+                        "value": 24.76,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 46872.0,
+                        "value": 41496.0,
                         "unit": "cm3"
                     }
                 },
@@ -3851,17 +3851,17 @@
                 "articleNumber": "705.687.20",
                 "measurements": {
                     "dimensions": {
-                        "width": 36.0,
+                        "width": 39.0,
                         "unit": "cm",
-                        "height": 14.0,
-                        "length": 93.0
+                        "height": 8.0,
+                        "length": 133.0
                     },
                     "weight": {
-                        "value": 26.82,
+                        "value": 24.76,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 46872.0,
+                        "value": 41496.0,
                         "unit": "cm3"
                     }
                 },
@@ -4039,17 +4039,17 @@
                 "articleNumber": "604.135.02",
                 "measurements": {
                     "dimensions": {
-                        "width": 44.0,
+                        "width": 38.0,
                         "unit": "cm",
-                        "height": 6.0,
-                        "length": 200.0
+                        "height": 14.0,
+                        "length": 94.0
                     },
                     "weight": {
-                        "value": 14.45,
+                        "value": 18.01,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 52800.0,
+                        "value": 50008.0,
                         "unit": "cm3"
                     }
                 },
@@ -4087,17 +4087,17 @@
                 "articleNumber": "504.135.07",
                 "measurements": {
                     "dimensions": {
-                        "width": 44.0,
+                        "width": 38.0,
                         "unit": "cm",
-                        "height": 10.0,
-                        "length": 200.0
+                        "height": 13.0,
+                        "length": 101.0
                     },
                     "weight": {
-                        "value": 28.78,
+                        "value": 20.18,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 88000.0,
+                        "value": 49894.0,
                         "unit": "cm3"
                     }
                 },
@@ -4655,15 +4655,15 @@
                     "dimensions": {
                         "width": 40.0,
                         "unit": "cm",
-                        "height": 5.0,
-                        "length": 204.0
+                        "height": 15.0,
+                        "length": 82.0
                     },
                     "weight": {
-                        "value": 20.12,
+                        "value": 28.58,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 40800.0,
+                        "value": 49200.0,
                         "unit": "cm3"
                     }
                 },
@@ -5079,17 +5079,17 @@
                 "articleNumber": "302.758.61",
                 "measurements": {
                     "dimensions": {
-                        "width": 40.0,
+                        "width": 41.0,
                         "unit": "cm",
-                        "height": 10.0,
-                        "length": 143.0
+                        "height": 16.0,
+                        "length": 152.0
                     },
                     "weight": {
-                        "value": 19.7,
+                        "value": 18.3,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 57200.0,
+                        "value": 99712.0,
                         "unit": "cm3"
                     }
                 },
@@ -5420,17 +5420,17 @@
                 "articleNumber": "004.156.03",
                 "measurements": {
                     "dimensions": {
-                        "width": 40.0,
+                        "width": 29.0,
                         "unit": "cm",
-                        "height": 5.0,
-                        "length": 195.0
+                        "height": 13.0,
+                        "length": 205.0
                     },
                     "weight": {
-                        "value": 14.27,
+                        "value": 34.79,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 39000.0,
+                        "value": 77285.0,
                         "unit": "cm3"
                     }
                 },
@@ -5715,17 +5715,17 @@
                 "articleNumber": "404.369.91",
                 "measurements": {
                     "dimensions": {
-                        "width": 34.0,
+                        "width": 30.0,
                         "unit": "cm",
-                        "height": 7.0,
-                        "length": 181.0
+                        "height": 12.0,
+                        "length": 70.0
                     },
                     "weight": {
-                        "value": 22.8,
+                        "value": 11.1,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 43078.0,
+                        "value": 25200.0,
                         "unit": "cm3"
                     }
                 },
@@ -5774,17 +5774,17 @@
                 "articleNumber": "104.878.16",
                 "measurements": {
                     "dimensions": {
-                        "width": 10.0,
+                        "width": 40.0,
                         "unit": "cm",
                         "height": 6.0,
-                        "length": 132.0
+                        "length": 66.0
                     },
                     "weight": {
-                        "value": 2.28,
+                        "value": 4.91,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 7920.0,
+                        "value": 15840.0,
                         "unit": "cm3"
                     }
                 },
@@ -6213,15 +6213,15 @@
                     "dimensions": {
                         "width": 45.0,
                         "unit": "cm",
-                        "height": 12.0,
-                        "length": 101.0
+                        "height": 10.0,
+                        "length": 201.0
                     },
                     "weight": {
-                        "value": 22.97,
+                        "value": 8.8,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 54540.0,
+                        "value": 90450.0,
                         "unit": "cm3"
                     }
                 },
@@ -6661,17 +6661,17 @@
                 "articleNumber": "505.277.83",
                 "measurements": {
                     "dimensions": {
-                        "width": 36.0,
+                        "width": 35.0,
                         "unit": "cm",
                         "height": 7.0,
-                        "length": 128.0
+                        "length": 137.0
                     },
                     "weight": {
-                        "value": 12.0,
+                        "value": 8.9,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 32256.0,
+                        "value": 33565.0,
                         "unit": "cm3"
                     }
                 },
@@ -6910,17 +6910,17 @@
                 "articleNumber": "605.687.25",
                 "measurements": {
                     "dimensions": {
-                        "width": 36.0,
+                        "width": 39.0,
                         "unit": "cm",
-                        "height": 14.0,
-                        "length": 93.0
+                        "height": 8.0,
+                        "length": 133.0
                     },
                     "weight": {
-                        "value": 26.82,
+                        "value": 24.76,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 46872.0,
+                        "value": 41496.0,
                         "unit": "cm3"
                     }
                 },
@@ -7148,15 +7148,15 @@
                     "dimensions": {
                         "width": 40.0,
                         "unit": "cm",
-                        "height": 5.0,
-                        "length": 204.0
+                        "height": 15.0,
+                        "length": 82.0
                     },
                     "weight": {
-                        "value": 20.12,
+                        "value": 28.58,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 40800.0,
+                        "value": 49200.0,
                         "unit": "cm3"
                     }
                 },
@@ -7406,17 +7406,17 @@
                 "articleNumber": "705.284.61",
                 "measurements": {
                     "dimensions": {
-                        "width": 40.0,
+                        "width": 37.0,
                         "unit": "cm",
-                        "height": 9.0,
-                        "length": 194.0
+                        "height": 12.0,
+                        "length": 85.0
                     },
                     "weight": {
-                        "value": 26.3,
+                        "value": 20.2,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 69840.0,
+                        "value": 37740.0,
                         "unit": "cm3"
                     }
                 },
@@ -7998,15 +7998,15 @@
                     "dimensions": {
                         "width": 38.0,
                         "unit": "cm",
-                        "height": 8.0,
+                        "height": 7.0,
                         "length": 202.0
                     },
                     "weight": {
-                        "value": 31.7,
+                        "value": 26.07,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 61408.0,
+                        "value": 53732.0,
                         "unit": "cm3"
                     }
                 },
@@ -8210,15 +8210,15 @@
                     "dimensions": {
                         "width": 40.0,
                         "unit": "cm",
-                        "height": 10.0,
-                        "length": 108.0
+                        "height": 8.0,
+                        "length": 191.0
                     },
                     "weight": {
-                        "value": 20.0,
+                        "value": 28.9,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 43200.0,
+                        "value": 61120.0,
                         "unit": "cm3"
                     }
                 },
@@ -8256,17 +8256,17 @@
                 "articleNumber": "104.878.40",
                 "measurements": {
                     "dimensions": {
-                        "width": 45.0,
+                        "width": 40.0,
                         "unit": "cm",
-                        "height": 11.0,
-                        "length": 108.0
+                        "height": 7.0,
+                        "length": 191.0
                     },
                     "weight": {
-                        "value": 21.4,
+                        "value": 27.9,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 53460.0,
+                        "value": 53480.0,
                         "unit": "cm3"
                     }
                 },
@@ -8283,14 +8283,14 @@
                         "width": 45.0,
                         "unit": "cm",
                         "height": 11.0,
-                        "length": 108.0
+                        "length": 84.0
                     },
                     "weight": {
-                        "value": 21.4,
+                        "value": 18.95,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 53460.0,
+                        "value": 41580.0,
                         "unit": "cm3"
                     }
                 },
@@ -8400,15 +8400,15 @@
                     "dimensions": {
                         "width": 40.0,
                         "unit": "cm",
-                        "height": 5.0,
-                        "length": 204.0
+                        "height": 15.0,
+                        "length": 82.0
                     },
                     "weight": {
-                        "value": 20.12,
+                        "value": 28.58,
                         "unit": "kg"
                     },
                     "volume": {
-                        "value": 40800.0,
+                        "value": 49200.0,
                         "unit": "cm3"
                     }
                 },
