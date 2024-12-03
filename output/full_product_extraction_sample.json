@@ -1,0 +1,177 @@
+[
+    {
+        "price": 59.99,
+        "currency": "\u20ac",
+        "measurement_ensembled_text": "80x28x202 cm",
+        "url": "https://www.ikea.com/es/es/p/billy-libreria-blanco-00263850/",
+        "name": "BILLY",
+        "category": "Librer\u00eda",
+        "packages": [
+            {
+                "name": "BILLY",
+                "typeName": "Librer\u00eda",
+                "itemNo": "00263850",
+                "subitemNo": "1",
+                "articleNumber": "002.638.50",
+                "measurements": 
+                    {
+                        "dimensions": {
+                            "width": 29,
+                            "height": 13,
+                            "length": 206,
+                            "unit": "cm"
+                        },
+                        "weight": {
+                            "value": 37.9,
+                            "unit": "kg"
+                        },
+                        "volume": {
+                            "value": 77662,
+                            "unit": "cm3"
+                        }
+                    },
+                "quantity":  1
+            }
+        ]
+    },
+    {
+        "price": 139.99,
+        "currency": "\u20ac",
+        "measurement_ensembled_text": "80x30x202 cm",
+        "url": "https://www.ikea.com/es/es/p/billy-oxberg-libreria-con-puerta-vidrio-blanco-s69281776/",
+        "name": "BILLY / OXBERG",
+        "category": "Librer\u00eda con puerta de vidrio",
+        "packages": [
+            {
+                "name": "BILLY",
+                "typeName": "Librer\u00eda",
+                "itemNo": "00263850",
+                "subitemNo": "1",
+                "articleNumber": "002.638.50",
+                "measurements": {
+                    "dimensions": {
+                        "width": 29,
+                        "height": 13,
+                        "length": 206,
+                        "unit": "cm"
+                    },
+                    "weight": {
+                        "value": 37.9,
+                        "unit": "kg"
+                    },
+                    "volume": {
+                        "value": 77662,
+                        "unit": "cm3"
+                    }
+                },
+                "quantity": 1
+            },
+            {
+                "name": "OXBERG",
+                "typeName": "Puerta de vidrio",
+                "itemNo": "50275558",
+                "subitemNo": "1",
+                "articleNumber": "502.755.58",
+                "measurements": {
+                    "dimensions": {
+                        "width": 40,
+                        "height": 3,
+                        "length": 211,
+                        "unit": "cm"
+                    },
+                    "weight": {
+                        "value": 7.51,
+                        "unit": "kg"
+                    },
+                    "volume": {
+                        "value": 25320,
+                        "unit": "cm3"
+                    }
+                },
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "price": 139.97,
+        "currency": "\u20ac",
+        "measurement_ensembled_text": "95/95x28x202 cm",
+        "url": "https://www.ikea.com/es/es/p/billy-combinacion-libreria-modulo-esquina-blanco-s99395936/",
+        "name": "BILLY",
+        "category": "Combinaci\u00f3n librer\u00eda m\u00f3dulo esquina",
+        "packages": [
+            {
+                "name": "BILLY",
+                "typeName": "Combinaci\u00f3n librer\u00eda m\u00f3dulo esquina",
+                "itemNo": "99395936",
+                "subitemNo": "1",
+                "articleNumber": "993.959.36",
+                "measurements": {
+                    "dimensions": {
+                        "width": null,
+                        "height": null,
+                        "length": null,
+                        "unit": "cm"
+                    },
+                    "weight": {
+                        "value": null,
+                        "unit": "kg"
+                    },
+                    "volume": {
+                        "value": null,
+                        "unit": "cm3"
+                    }
+                },
+                "quantity": 1
+            },
+            {
+                "name": "BILLY",
+                "typeName": "Librer\u00eda",
+                "itemNo": "50263838",
+                "subitemNo": "1",
+                "articleNumber": "502.638.38",
+                "measurements": {
+                    "dimensions": {
+                        "width": 39,
+                        "height": 7,
+                        "length": 207,
+                        "unit": "cm"
+                    },
+                    "weight": {
+                        "value": 24.30,
+                        "unit": "kg"
+                    },
+                    "volume": {
+                        "value": 43470,
+                        "unit": "cm3"
+                    }
+                },
+                "quantity": 3
+            },
+            {
+                "name": "BILLY",
+                "typeName": "Herraje de esquina",
+                "itemNo": "40104109",
+                "subitemNo": "1",
+                "articleNumber": "401.041.09",
+                "measurements": {
+                    "dimensions": {
+                        "width": 20,
+                        "height": 1,
+                        "length": 22,
+                        "unit": "cm"
+                    },
+                    "weight": {
+                        "value": 0.24,
+                        "unit": "kg"
+                    },
+                    "volume": {
+                        "value": 440,
+                        "unit": "cm3"
+                    }
+                },
+                "quantity": 1
+            }
+        ]
+    }
+]
